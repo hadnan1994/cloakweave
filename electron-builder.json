@@ -1,0 +1,28 @@
+{
+  "appId": "com.cloakweave.app",
+  "productName": "Cloakweave",
+  "directories": {
+    "output": "release"
+  },
+  "icon": "assets/cloakweavelogo.png",
+  "files": [
+    "dist/**",
+    "dist-electron/**",
+    "node_modules/sql.js/dist/**",
+    "assets/**",
+    "package.json"
+  ],
+  "mac": {
+    "category": "public.app-category.productivity",
+    "icon": "assets/cloakweavelogo.png"
+  },
+  "win": {
+    "target": "nsis",
+    "icon": "assets/cloakweavelogo.png"
+  },
+  "linux": {
+    "target": "AppImage",
+    "category": "Utility",
+    "icon": "assets/cloakweavelogo.png"
+  }
+}

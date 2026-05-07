@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Cloakweave icon">
+  <rect width="256" height="256" rx="56" fill="#111827"/>
+  <path d="M66 76c34-32 90-32 124 0v49c0 44-25 83-62 99-37-16-62-55-62-99V76z" fill="#14b8a6"/>
+  <path d="M88 98c23-22 57-22 80 0v31c0 29-15 54-40 67-25-13-40-38-40-67V98z" fill="#0f172a"/>
+  <path d="M96 119h64M96 145h64M112 93v83M144 93v83" stroke="#f8fafc" stroke-width="8" stroke-linecap="round" opacity=".9"/>
+</svg>
